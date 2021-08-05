@@ -313,4 +313,11 @@ Wire Wire Line
 Wire Wire Line
 	4650 4700 4650 4950
 Connection ~ 4650 4250
+NoConn ~ 5050 3550
+NoConn ~ 5850 4250
+NoConn ~ 5850 4150
+NoConn ~ 5850 3750
+NoConn ~ 5850 3850
+NoConn ~ 5850 3950
+NoConn ~ 5850 4050
 $EndSCHEMATC
